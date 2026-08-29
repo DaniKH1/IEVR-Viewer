@@ -84,7 +84,7 @@ app_icon.ico       Windows executable icon
 ## Credits
 
 - Idea Designer: **DaniKH**
-- Original Blender add-on author: **The-RealBobi** — [G4_Blender](https://github.com/The-RealBobi/G4_Blender)
+- Original Blender add-on author: **The-RealBobi** - [G4_Blender](https://github.com/The-RealBobi/G4_Blender)
 - Built with Codex
 
 See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for attribution information.
