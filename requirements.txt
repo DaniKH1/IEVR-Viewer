@@ -1,0 +1,4 @@
+numpy>=2.0
+Pillow>=10.0
+pyglet>=2.0
+pyinstaller>=6.0

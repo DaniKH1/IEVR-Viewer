@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+release*/
+*.spec
+*.manifest
+*-build-output.log
+*-build-error.log
+github-build-output.log
+github-build-error.log
+
+# IEVR Viewer local data
+IEVR Viewer.settings.json
+*_textures/
+
+# Validation and test exports
+*-check.fbx
+*_test.fbx
+*.blend1
+
+# Editor and operating system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
